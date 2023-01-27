@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Dnw_OneForTwelve_Azure_Api": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7012",
+      "launchBrowser": false
+    }
+  }
+}
